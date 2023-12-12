@@ -1,5 +1,4 @@
 altair==5.1.2
-altgraph==0.17.2
 ansi2html==1.8.0
 attrs==23.1.0
 blinker==1.6.3
@@ -44,8 +43,6 @@ protobuf==4.24.4
 pyarrow==13.0.0
 pydeck==0.8.1b0
 Pygments==2.16.1
-pyinstaller==4.8
-pyinstaller-hooks-contrib==2022.0
 pynput==1.7.6
 pyparsing==3.1.1
 python-dateutil==2.8.2
